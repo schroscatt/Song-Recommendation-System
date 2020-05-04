@@ -1,5 +1,4 @@
 % sevde sarikaya
-% 2017400081
 % compiling: yes
 % complete: yes
 
